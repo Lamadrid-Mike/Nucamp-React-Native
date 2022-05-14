@@ -10,12 +10,23 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~45.0.0",
+    "@react-native-community/masked-view": "0.1.10",
+    "expo": "41",
+    "expo-cli": "^5.4.3",
+    "expo-constants": "~10.1.3",
     "expo-status-bar": "~1.3.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "react-native": "0.68.1",
-    "react-native-web": "0.17.7"
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "0.63.4",
+    "react-native-elements": "2.2.1",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-reanimated": "~2.1.0",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "~3.0.0",
+    "react-native-web": "0.17.7",
+    "react-navigation": "4",
+    "react-navigation-drawer": "^2.7.2",
+    "react-navigation-stack": "^1.10.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
